@@ -1,1 +1,1 @@
-# Kenzie-Academy-Exercicios
+# Exercicios Curso - Engenheiro de Qualidade de Software da EBAC
