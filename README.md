@@ -1,1 +1,1 @@
-# Exercicios Curso - Engenheiro de Qualidade de Software da EBAC
+# Exercícios Curso - Engenheiro de Qualidade de Software da EBAC
