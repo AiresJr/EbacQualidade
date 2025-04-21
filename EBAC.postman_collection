@@ -66,7 +66,7 @@
 					"response": []
 				},
 				{
-					"name": "Cadastrar Produto - Sem Token",
+					"name": "Erro cadastrar produto sem token",
 					"event": [
 						{
 							"listen": "test",
@@ -200,7 +200,7 @@
 					"response": []
 				},
 				{
-					"name": "Editar Produto - Este produto já existe",
+					"name": "Erro editar produto já existente",
 					"event": [
 						{
 							"listen": "test",
@@ -297,7 +297,7 @@
 					"response": []
 				},
 				{
-					"name": "Deletar Produto - Carrinho",
+					"name": "Erro deletar produto do carrinho",
 					"event": [
 						{
 							"listen": "test",
@@ -388,7 +388,7 @@
 			"response": []
 		},
 		{
-			"name": "Cadastrar usuário - Já existe",
+			"name": "Erro cadastrar usuário já existente",
 			"event": [
 				{
 					"listen": "test",
@@ -490,7 +490,7 @@
 			"response": []
 		},
 		{
-			"name": "Login - inválido",
+			"name": "Erro login inválido",
 			"event": [
 				{
 					"listen": "test",
